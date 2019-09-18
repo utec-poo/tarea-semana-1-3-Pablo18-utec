@@ -7,10 +7,7 @@ int main() {
 entero numero;
 caracter crt;
 
-cout << "ingrese el caracter:";
-cin >> crt;
-cout << "\ningrese el numero:";
-cin >> numero;
+cou
 
 // ToDO
 // implemente el algoritmo.
